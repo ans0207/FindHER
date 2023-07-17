@@ -23,7 +23,7 @@ The application is built using the following technologies:
 ## Installation
 To install and set up the application locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your/repository.git
+1. Clone the repository: git clone https://github.com/ans0207/FindHER.git
 2. Navigate to the project directory.
 3. Install the dependencies for both the server and client:
 - For the server, run npm install in the server directory.
